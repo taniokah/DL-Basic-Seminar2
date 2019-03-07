@@ -1,1 +1,1 @@
-# DL-Basic-Seminar
+# Deep Learning Basic Seminar
