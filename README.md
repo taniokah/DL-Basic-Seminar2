@@ -22,6 +22,7 @@
 フォルダを、Anaconda のフォルダの、今回作った keras フォルダ以下に展開します。
 私の環境の場合は、以下のようになります。
 
+```
 C:/Users/taniokah/keras/
 ├─train
 │  ├─cats
@@ -29,8 +30,9 @@ C:/Users/taniokah/keras/
 └─validation
     ├─cats
     └─dogs
+```
 
-次に、以下の、```python と ``` で囲まれたプログラムをJupyter Notebookに書き込んで、
+次に、以下の、python プログラムをJupyter Notebookに書き込んで、
 実行してみましょう。
 
 ```python
